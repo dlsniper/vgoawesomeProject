@@ -1,7 +1,12 @@
 package main
 
-import "github.com/dlsniper/vgodemo"
+import (
+	"fmt"
+
+	"vgoawesomeProject/subpkg"
+)
 
 func main() {
-	vgodemo.GetRouter()
+	r := subpkg.GetRouter()
+	fmt.Printf("%v\n", r)
 }

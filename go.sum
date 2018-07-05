@@ -1,0 +1,9 @@
+github.com/dlsniper/vgodemo v0.0.0-20180318080540-4356961a9/go.mod h1:s1PzZf4dkG/TcIPTVqxH55crU/T7UYp1lFWRhtEITbU=
+github.com/dlsniper/vgodemo v0.0.0-20180704102233-4356961a96dc h1:i9gFJzJAryL4HFPah7dX7ec+JBdYoxCnSiAKQsAEggY=
+github.com/dlsniper/vgodemo v0.0.0-20180704102233-4356961a96dc/go.mod h1:s1PzZf4dkG/TcIPTVqxH55crU/T7UYp1lFWRhtEITbU=
+github.com/dlsniper/vgodemo v1.0.0 h1:D2QkzdatuGYsuhbBNrSAK45xkRp6k/kj5Lym+48x8Ic=
+github.com/dlsniper/vgodemo v1.0.0/go.mod h1:s1PzZf4dkG/TcIPTVqxH55crU/T7UYp1lFWRhtEITbU=
+github.com/gorilla/context v1.1.1 h1:AWwleXJkX/nhcU9bZSnZoi3h/qGYqQAGhq6zZe/aQW8=
+github.com/gorilla/context v1.1.1/go.mod h1:kBGZzfjB9CEq2AlWe17Uuf7NDRt0dE0s8S51q0aT7Yg=
+github.com/gorilla/mux v1.6.2 h1:Pgr17XVTNXAk3q/r4CpKzC5xBM/qW1uVLV+IhRZpIIk=
+github.com/gorilla/mux v1.6.2/go.mod h1:1lud6UwP+6orDFRuTfBEV8e9/aOM/c4fVVCaMa2zaAs=
